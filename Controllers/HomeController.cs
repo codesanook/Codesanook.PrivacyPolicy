@@ -5,7 +5,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace CodeSanook.PrivacyPolicy.Controllers
+namespace Codesanook.PrivacyPolicy.Controllers
 {
     public class HomeController : Controller
     {

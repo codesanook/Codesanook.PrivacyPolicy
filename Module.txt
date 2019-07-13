@@ -1,7 +1,7 @@
-Name: CodeSanook.PrivacyPolicy
+Name: Codesanook.PrivacyPolicy
 AntiForgery: enabled
-Author: CodeSanook Team
-Website: http://codesanook.com
+Author: Codesanook Team
+Website: https://www.codesanook.com
 Version: 1.0
 OrchardVersion: 1.0
-Description: Mobile App privacy policy page for Orchard
+Description: Mobile APP privacy policy page for Orchard

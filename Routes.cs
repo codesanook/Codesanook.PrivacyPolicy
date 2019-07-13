@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Web.Mvc;
 using System.Web.Routing;
 
-namespace CodeSanook.PrivacyPolicy
+namespace Codesanook.PrivacyPolicy
 {
     public class Routes : IRouteProvider
     {
